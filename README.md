@@ -46,7 +46,7 @@ After the game, enter y to restart with a fresh inventory and zero mischief, or 
 
 ## End credits:
 
-- AI assisted with some insane artwork that I did not end up inlcuding but I thought you might this it. See below.
+- AI assisted with some insane artwork that I did not end up inlcuding. I thought you might enjoy these: 
 
           .--.   .--.
           /   \_/   \
