@@ -46,32 +46,33 @@ After the game, enter y to restart with a fresh inventory and zero mischief, or 
 
 ## End credits:
 
-- AI assisted with some insane artwork that I did not end up inlcuding but I thought you might enjoy it. See below.
+- AI assisted with some insane artwork that I did not end up inlcuding but I thought you might this it. See below.
 
-     .--.   .--.
-     /   \_/   \
-      .-------.
-     / 12  |   \
-    | 9    +--3 |
-     \    6    /
-      '-------'
-       /     \
-     BEEP! BEEP!
-    TIME FOR MISCHIEF!
+          .--.   .--.
+          /   \_/   \
+           .-------.
+          / 12  |   \
+         | 9    +--3 |
+          \    6    /
+           '-------'
+            /     \
+          BEEP! BEEP!
+         TIME FOR MISCHIEF!
 
 
 Prompt: create ascii art of a dog chasing the toy alice threw
-                         SQUEAK!
-   / \__
-  (    @\___              __
-  /         O            /  \_
- /   (_____/      >>>   (o  o )
-/_____/   U              \_==_/
-  ||  ||
-  ||  ||                 SQUEAK!
-  oo  oo
 
-   RASCAL IS ON THE CASE!
+                         SQUEAK!
+        / \__
+       (    @\___              __
+       /         O            /  \_
+      /   (_____/      >>>   (o  o )
+     /_____/   U              \_==_/
+       ||  ||
+       ||  ||                 SQUEAK!
+       oo  oo
+     
+        RASCAL IS ON THE CASE!
 
 
 Prompt: create ascii art of the rascal weenie dog with alice standing on his back
